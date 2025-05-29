@@ -20,9 +20,8 @@ To build a machine learning model that can assist in early detection of stroke r
 - Handling imbalanced classes with resampling techniques (SMOTE and Hyperparameter Tuning)
 
 ## 📈 Key Results
-- Best model achieved good balance between precision and recall.
+- Best model achieved good recall.
 - Feature importance shows age, hypertension, and heart disease as dominant predictors.
-- Demonstrates how machine learning can support preventive health diagnostics.
 
 ## 📂 Project Structure
 - `Stroke_Prediction.ipynb` : Main Jupyter notebook with full analysis

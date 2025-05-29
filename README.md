@@ -15,9 +15,9 @@ To build a machine learning model that can assist in early detection of stroke r
 - Libraries: `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
 - Data preprocessing (null handling, encoding, scaling)
 - Feature selection using correlation and importance
-- Models: Logistic Regression, Random Forest, and others
+- Models: Logistic Regression, Random Forest, and SVM
 - Model evaluation with metrics like accuracy, precision, recall, F1-score
-- Handling imbalanced classes with resampling techniques (e.g., SMOTE)
+- Handling imbalanced classes with resampling techniques (SMOTE and Hyperparameter Tuning)
 
 ## 📈 Key Results
 - Best model achieved good balance between precision and recall.
@@ -31,7 +31,7 @@ To build a machine learning model that can assist in early detection of stroke r
 ## 🙋‍♂️ Author
 **Muhammad Gufril Firdaus**  
 Fresh graduate in Information Systems | Aspiring Data Scientist  
-[LinkedIn](https://www.linkedin.com/in/muhammadgufril) *(Update this if needed)*
+[LinkedIn](https://www.linkedin.com/in/muhammad-gufril-firdaus)
 
 ---
 

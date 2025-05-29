@@ -35,11 +35,3 @@ Fresh graduate in Information Systems | Aspiring Data Scientist
 ---
 
 Feel free to fork or clone this repo. Feedback and suggestions are welcome!
-"""
-
-# Menyimpan file README.md
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path

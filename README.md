@@ -1,4 +1,3 @@
-readme_content = """
 # 🧠 Final Project: Stroke Prediction Using Machine Learning
 
 This repository contains my final project for a data science program, where I developed a predictive model to identify the likelihood of a person having a stroke based on health and demographic data.

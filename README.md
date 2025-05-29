@@ -15,7 +15,7 @@ To build a machine learning model that can assist in early detection of stroke r
 - Data preprocessing (null handling, encoding, scaling)
 - Feature selection using correlation and importance
 - Models: Logistic Regression, Random Forest, and SVM
-- Model evaluation with metrics like accuracy, precision, recall, F1-score
+- Model evaluation with metrics like accuracy, precision, recall, F1-score, AUC
 - Handling imbalanced classes with resampling techniques (SMOTE and Hyperparameter Tuning)
 
 ## 📈 Key Results
